@@ -9,4 +9,4 @@ Citation for the Publication:
 Rawat, M., Srivastava, A., Johri, S., Gupta, I., & Karmodiya, K. (2021). Single-Cell RNA Sequencing Reveals Cellular Heterogeneity and Stage Transition under Temperature Stress in Synchronized Plasmodium falciparum Cells. Microbiology Spectrum, 9(1), e00008-21.
 ```
 
-
+<img src="./images/fig2.jpg"/>
