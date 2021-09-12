@@ -1,0 +1,239 @@
+Gene ID,Genomic Location (Gene),Product Description
+PF3D7-0106700,"Pf3D7-01-v3:281,155..285,459(+)",small ribosomal subunit assembling AARP2 protein
+PF3D7-0202400,"Pf3D7-02-v3:120,524..124,102(+)",translation-enhancing factor
+PF3D7-0208600,"Pf3D7-02-v3:354,621..356,117(+)",ribosome-recycling factor
+PF3D7-0210100,"Pf3D7-02-v3:412,275..412,859(+)","60S ribosomal protein L37ae, putative"
+PF3D7-0210100,"Pf3D7-02-v3:412,275..412,859(+)","60S ribosomal protein L37ae, putative"
+PF3D7-0210400,"Pf3D7-02-v3:425,689..426,497(+)","50S ribosomal protein L33, putative"
+PF3D7-0212200,"Pf3D7-02-v3:489,904..490,818(-)","ribosomal protein L12, mitochondrial, putative"
+PF3D7-0214200,"Pf3D7-02-v3:575,155..576,054(-)","ribosomal protein L13, mitochondrial"
+PF3D7-0217800,"Pf3D7-02-v3:734,272..734,595(+)",40S ribosomal protein S26
+PF3D7-0219200,"Pf3D7-02-v3:772,316..772,690(+)",40S ribosomal protein S30
+PF3D7-0219400,"Pf3D7-02-v3:774,815..776,036(+)","ribosome associated membrane protein RAMP4, putative, unspecified product"
+PF3D7-0219400,"Pf3D7-02-v3:774,815..776,036(+)","ribosome associated membrane protein RAMP4, putative, unspecified product"
+PF3D7-0304400,"Pf3D7-03-v3:217,941..218,489(+)",60S ribosomal protein L44
+PF3D7-0305000,"Pf3D7-03-v3:234,058..235,334(-)",elongation factor Ts
+PF3D7-0305400,"Pf3D7-03-v3:260,332..261,085(+)","conserved protein, unknown function"
+PF3D7-0306900,"Pf3D7-03-v3:310,652..311,805(+)","40S ribosomal protein S23, putative"
+PF3D7-0307100,"Pf3D7-03-v3:312,693..313,342(-)","40S ribosomal protein S12, putative"
+PF3D7-0307200,"Pf3D7-03-v3:314,976..316,236(-)","60S ribosomal protein L7, putative"
+PF3D7-0310000,"Pf3D7-03-v3:420,697..421,515(+)","50S ribosomal protein L9, apicoplast, putative"
+PF3D7-0312800,"Pf3D7-03-v3:534,239..535,238(+)","60S ribosomal protein L26, putative"
+PF3D7-0313500,"Pf3D7-03-v3:548,718..551,453(+)",Ras-like G protein
+PF3D7-0315500,"Pf3D7-03-v3:632,846..633,544(-)","mitochondrial ribosomal protein L29/L47 precursor, putative"
+PF3D7-0316100,"Pf3D7-03-v3:648,635..649,531(+)","mitochondrial ribosomal protein L27 precursor, putative"
+PF3D7-0316800,"Pf3D7-03-v3:677,842..678,474(+)","40S ribosomal protein S15A, putative"
+PF3D7-0317600,"Pf3D7-03-v3:725,015..726,130(+)","40S ribosomal protein S11, putative"
+PF3D7-0322900,"Pf3D7-03-v3:965,553..966,502(-)","40S ribosomal protein S3A, putative"
+PF3D7-0406800,"Pf3D7-04-v3:351,527..352,983(-)","ribosomal protein L25, putative"
+PF3D7-0408900,"Pf3D7-04-v3:424,300..427,194(+)",tRNA N6-adenosine threonylcarbamoyltransferase
+PF3D7-0408900,"Pf3D7-04-v3:424,300..427,194(+)",tRNA N6-adenosine threonylcarbamoyltransferase
+PF3D7-0410700,"Pf3D7-04-v3:481,177..483,891(-)","ribosome biogenesis GTPase A, putative"
+PF3D7-0412100,"Pf3D7-04-v3:540,188..541,198(-)","30S ribosomal protein S12, mitochondrial, putative"
+PF3D7-0413800,"Pf3D7-04-v3:622,094..622,936(+)","50S ribosomal protein L10, putative"
+PF3D7-0414700,"Pf3D7-04-v3:660,624..662,519(+)","GTP-binding protein, putative"
+PF3D7-0415900,"Pf3D7-04-v3:697,918..698,768(-)","60S ribosomal protein L15, putative"
+PF3D7-0416200,"Pf3D7-04-v3:709,460..710,083(-)","conserved protein, unknown function"
+PF3D7-0417300,"Pf3D7-04-v3:750,860..753,712(-)","LETM1-like protein, putative"
+PF3D7-0419800,"Pf3D7-04-v3:874,811..875,521(-)","60S ribosomal protein L7ae/L30e, putative"
+PF3D7-0420400,"Pf3D7-04-v3:929,340..930,140(+)",ribosome-recycling factor
+PF3D7-0422400,"Pf3D7-04-v3:1,026,648..1,027,399(+)",40S ribosomal protein S19
+PF3D7-0503000,"Pf3D7-05-v3:125,116..126,514(+)","50S ribosomal protein L28, apicoplast, putative"
+PF3D7-0503800,"Pf3D7-05-v3:151,422..152,384(-)",60S ribosomal protein L31
+PF3D7-0504400,"Pf3D7-05-v3:172,150..174,417(+)","ATP-dependent helicase, putative"
+PF3D7-0506100,"Pf3D7-05-v3:257,748..258,831(-)","60S ribosomal subunit protein L24, putative"
+PF3D7-0507100,"Pf3D7-05-v3:294,668..295,903(-)",60S ribosomal protein L4
+PF3D7-0511700,"Pf3D7-05-v3:519,129..520,078(+)",EKC/KEOPS complex subunit CGI121
+PF3D7-0513400,"Pf3D7-05-v3:571,058..572,661(-)","GTP-binding protein, putative"
+PF3D7-0516200,"Pf3D7-05-v3:675,809..676,614(-)",40S ribosomal protein S11
+PF3D7-0516900,"Pf3D7-05-v3:712,762..713,772(-)",60S ribosomal protein L2
+PF3D7-0517000,"Pf3D7-05-v3:715,765..716,675(-)","60S ribosomal protein L12, putative"
+PF3D7-0519100,"Pf3D7-05-v3:790,399..790,773(+)","50S ribosomal protein L14, mitochondrial, putative"
+PF3D7-0519400,"Pf3D7-05-v3:798,036..798,775(-)",40S ribosomal protein S24
+PF3D7-0520000,"Pf3D7-05-v3:828,953..829,883(+)","40S ribosomal protein S9, putative"
+PF3D7-0522500,"Pf3D7-05-v3:937,231..938,037(+)","50S ribosomal protein L17, apicoplast, putative"
+PF3D7-0522700,"Pf3D7-05-v3:942,767..943,873(+)",iron-sulfur assembly protein
+PF3D7-0524400,"Pf3D7-05-v3:1,013,453..1,014,550(-)","ribosome-interacting GTPase 1, putative"
+PF3D7-0524600,"Pf3D7-05-v3:1,017,809..1,018,582(+)","50S ribosomal protein L12, apicoplast, putative"
+PF3D7-0531200,"Pf3D7-05-v3:1,279,958..1,280,599(-)","ribosomal protein S16, mitochondrial, putative"
+PF3D7-0605000,"Pf3D7-06-v3:213,558..214,142(+)","50S ribosomal protein L24, putative"
+PF3D7-0610000,"Pf3D7-06-v3:433,008..434,178(+)","mitochondrial ribosomal protein L19 precursor, putative"
+PF3D7-0610900,"Pf3D7-06-v3:456,747..460,589(-)","transcription elongation factor SPT5, putative"
+PF3D7-0611700,"Pf3D7-06-v3:488,579..489,287(-)",60S ribosomal protein L39
+PF3D7-0613400,"Pf3D7-06-v3:546,964..547,741(+)","50S ribosomal protein L18, apicoplast, putative"
+PF3D7-0614500,"Pf3D7-06-v3:606,142..607,259(-)",60S ribosomal protein L19
+PF3D7-0618300,"Pf3D7-06-v3:768,792..769,456(+)","60S ribosomal protein L27a, putative"
+PF3D7-0630500,"Pf3D7-06-v3:1,276,329..1,277,825(+)","ribosome biogenesis protein YTM1, putative"
+PF3D7-0704900,"Pf3D7-07-v3:243,898..245,016(-)",peptide chain release factor 2
+PF3D7-0705700,"Pf3D7-07-v3:285,472..286,166(-)","40S ribosomal protein S29, putative"
+PF3D7-0706400,"Pf3D7-07-v3:306,855..307,133(-)",60S ribosomal protein L37
+PF3D7-0708300,"Pf3D7-07-v3:378,031..379,305(+)",EKC/KEOPS complex subunit BUD32
+PF3D7-0710600,"Pf3D7-07-v3:478,468..479,138(-)",60S ribosomal protein L34
+PF3D7-0710900,"Pf3D7-07-v3:484,838..486,037(+)","50S ribosomal protein L1, mitochondrial, putative"
+PF3D7-0713600,"Pf3D7-07-v3:617,933..620,867(+)","mitochondrial ribosomal protein S5 precursor, putative"
+PF3D7-0716100,"Pf3D7-07-v3:707,699..710,908(-)","protein SDA1, putative"
+PF3D7-0718400,"Pf3D7-07-v3:822,438..823,015(+)","mitochondrial ribosomal protein S8 precursor, putative"
+PF3D7-0719600,"Pf3D7-07-v3:858,742..859,492(-)","60S ribosomal protein L11a, putative"
+PF3D7-0719700,"Pf3D7-07-v3:861,583..862,487(+)","40S ribosomal protein S10, putative"
+PF3D7-0721600,"Pf3D7-07-v3:931,459..932,164(-)","40S ribosomal protein S5, putative"
+PF3D7-0722400,"Pf3D7-07-v3:954,784..956,343(+)","Obg-like ATPase 1, putative"
+PF3D7-0729000,"Pf3D7-07-v3:1,235,699..1,236,707(+)",signal recognition particle subunit SRP9
+PF3D7-0729400,"Pf3D7-07-v3:1,252,847..1,254,097(+)","ribosome biogenesis protein BRX1, putative"
+PF3D7-0810100,"Pf3D7-08-v3:519,331..519,991(-)","apicoplast ribosomal protein L33 precursor, putative"
+PF3D7-0812220,"Pf3D7-08-v3:613,325..614,862(-)","GTPase, putative"
+PF3D7-0813900,"Pf3D7-08-v3:677,989..678,725(-)","40S ribosomal protein S16, putative"
+PF3D7-0814000,"Pf3D7-08-v3:680,957..681,809(+)","60S ribosomal protein L13-2, putative"
+PF3D7-0816000,"Pf3D7-08-v3:746,013..747,488(-)","ribosome assembly protein RRB1, putative"
+PF3D7-0817100,"Pf3D7-08-v3:774,299..776,791(+)","tRNA modification GTPase, putative"
+PF3D7-0821700,"Pf3D7-08-v3:973,586..974,267(+)","60S ribosomal protein L22, putative"
+PF3D7-0822000,"Pf3D7-08-v3:978,798..980,634(+)","ribosomal protein L4, mitochondrial, putative"
+PF3D7-0824300,"Pf3D7-08-v3:1,059,246..1,061,567(-)","GTP-binding protein Obg2, putative"
+PF3D7-0825200,"Pf3D7-08-v3:1,093,690..1,094,489(+)",translation initiation factor IF-3
+PF3D7-0827500,"Pf3D7-08-v3:1,186,175..1,187,125(+)","ribosomal protein L21, apicoplast, putative"
+PF3D7-0828400,"Pf3D7-08-v3:1,224,094..1,225,863(-)","mitochondrial inner membrane protein OXA1, putative"
+PF3D7-0903900,"Pf3D7-09-v3:185,821..186,383(+)",60S ribosomal protein L32
+PF3D7-0907800,"Pf3D7-09-v3:366,925..367,500(+)","ribosomal protein L35, apicoplast, putative"
+PF3D7-0918200,"Pf3D7-09-v3:748,678..750,262(-)","50S ribosomal protein L3, apicoplast, putative"
+PF3D7-0921800,"Pf3D7-09-v3:886,065..887,389(-)","ribosome production factor 1, putative"
+PF3D7-0932600,"Pf3D7-09-v3:1,297,285..1,298,239(-)","apicoplast ribosomal protein S6, putative"
+PF3D7-0934200,"Pf3D7-09-v3:1,346,858..1,347,295(-)","conserved protein, unknown function"
+PF3D7-0934600,"Pf3D7-09-v3:1,354,581..1,355,495(+)","conserved Plasmodium protein, unknown function"
+PF3D7-1003200,"Pf3D7-10-v3:149,342..150,038(+)","ribosome-binding factor A, putative"
+PF3D7-1003500,"Pf3D7-10-v3:160,316..160,962(-)","40S ribosomal protein S20e, putative"
+PF3D7-1004000,"Pf3D7-10-v3:179,344..180,226(-)","60S ribosomal protein L13, putative"
+PF3D7-1010800,"Pf3D7-10-v3:424,866..425,765(-)","50S ribosomal protein L22, mitochondrial, putative"
+PF3D7-1019400,"Pf3D7-10-v3:786,503..787,008(+)","60S ribosomal protein L30e, putative"
+PF3D7-1022800,"Pf3D7-10-v3:955,883..958,357(+)","4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin), putative"
+PF3D7-1026800,"Pf3D7-10-v3:1,122,962..1,124,037(+)",40S ribosomal protein S2
+PF3D7-1027800,"Pf3D7-10-v3:1,153,271..1,154,431(-)",60S ribosomal protein L3
+PF3D7-1028300,"Pf3D7-10-v3:1,168,010..1,168,957(-)","rRNA-processing protein EBP2, putative"
+PF3D7-1030600,"Pf3D7-10-v3:1,245,880..1,247,676(-)",tRNA N6-adenosine threonylcarbamoyltransferase
+PF3D7-1032000,"Pf3D7-10-v3:1,287,715..1,290,045(-)","ribosome maturation factor RimM, putative"
+PF3D7-1034200,"Pf3D7-10-v3:1,363,474..1,364,118(+)","ribosomal protein L27, putative"
+PF3D7-1103100,"Pf3D7-11-v3:140,048..140,801(-)","60S acidic ribosomal protein P1, putative"
+PF3D7-1105400,"Pf3D7-11-v3:235,597..237,097(-)","40S ribosomal protein S4, putative"
+PF3D7-1106100,"Pf3D7-11-v3:258,779..259,981(+)","apicoplast ribosomal protein S15 precursor, putative"
+PF3D7-1107700,"Pf3D7-11-v3:326,881..328,812(+)",pescadillo homolog
+PF3D7-1109900,"Pf3D7-11-v3:397,124..397,775(+)",60S ribosomal protein L36
+PF3D7-1110300,"Pf3D7-11-v3:410,202..411,355(-)","conserved Plasmodium protein, unknown function"
+PF3D7-1110600,"Pf3D7-11-v3:425,904..426,864(-)","mitochondrial ribosomal protein L11 precursor, putative"
+PF3D7-1113500,"Pf3D7-11-v3:524,492..526,588(+)","GTP-binding protein, putative"
+PF3D7-1117600,"Pf3D7-11-v3:668,368..669,491(+)",peptidyl-tRNA hydrolase ICT1
+PF3D7-1117600,"Pf3D7-11-v3:668,368..669,491(+)",peptidyl-tRNA hydrolase ICT1
+PF3D7-1124800,"Pf3D7-11-v3:976,880..977,936(-)","ribosome biogenesis regulatory protein, putative"
+PF3D7-1124900,"Pf3D7-11-v3:981,945..983,086(+)","60S ribosomal protein L35, putative"
+PF3D7-1126200,"Pf3D7-11-v3:1,023,790..1,024,496(-)","40S ribosomal protein S18, putative"
+PF3D7-1130100,"Pf3D7-11-v3:1,163,094..1,163,357(-)",60S ribosomal protein L38
+PF3D7-1130200,"Pf3D7-11-v3:1,165,221..1,166,171(+)",60S ribosomal protein P0
+PF3D7-1132700,"Pf3D7-11-v3:1,268,455..1,269,456(+)","50S ribosomal protein L2, putative"
+PF3D7-1137100,"Pf3D7-11-v3:1,462,168..1,463,070(+)","mitochondrial ribosomal protein S9 precursor, putative"
+PF3D7-1137500,"Pf3D7-11-v3:1,473,505..1,474,116(-)","apicoplast ribosomal protein S14p/S29e precursor, putative"
+PF3D7-1142500,"Pf3D7-11-v3:1,705,696..1,706,573(-)",60S ribosomal protein L28
+PF3D7-1142600,"Pf3D7-11-v3:1,708,066..1,708,679(-)","60S ribosomal protein L35ae, putative"
+PF3D7-1144000,"Pf3D7-11-v3:1,755,438..1,755,935(+)",40S ribosomal protein S21
+PF3D7-1144100,"Pf3D7-11-v3:1,756,557..1,757,182(-)","mitochondrial large subunit ribosomal protein, putative"
+PF3D7-1144300,"Pf3D7-11-v3:1,759,257..1,759,922(-)",60S ribosomal protein L41
+PF3D7-1146000,"Pf3D7-11-v3:1,821,032..1,822,969(-)","ribosome assembly protein 4, putative"
+PF3D7-1203500,"Pf3D7-12-v3:182,298..183,968(-)","threonylcarbamoyl-AMP synthase, putative"
+PF3D7-1204300,"Pf3D7-12-v3:205,491..205,976(-)",eukaryotic translation initiation factor 5A
+PF3D7-1208000,"Pf3D7-12-v3:359,995..360,499(+)","apicoplast ribosomal protein L29 precursor, putative"
+PF3D7-1210000,"Pf3D7-12-v3:452,595..453,828(+)","50S ribosomal protein L1, apicoplast, putative"
+PF3D7-1211500,"Pf3D7-12-v3:507,808..508,971(-)","mitochondrial ribosomal protein S18 precursor, putative"
+PF3D7-1216300,"Pf3D7-12-v3:651,398..651,856(-)",signal recognition particle subunit SRP19
+PF3D7-1217300,"Pf3D7-12-v3:682,837..685,722(+)",GTP-binding protein EngA
+PF3D7-1220500,"Pf3D7-12-v3:818,703..819,659(-)","ribosome biogenesis protein TSR3, putative"
+PF3D7-1223900,"Pf3D7-12-v3:972,710..973,393(-)","50S ribosomal protein L24, putative"
+PF3D7-1225500,"Pf3D7-12-v3:1,033,551..1,035,112(+)","small subunit rRNA processing factor, putative"
+PF3D7-1239100,"Pf3D7-12-v3:1,626,773..1,627,928(+)","mitochondrial ribosomal protein L23 precursor, putative"
+PF3D7-1241300,"Pf3D7-12-v3:1,757,517..1,759,199(-)","ribosome-binding factor A, putative"
+PF3D7-1242700,"Pf3D7-12-v3:1,803,653..1,804,483(+)","40S ribosomal protein S17, putative"
+PF3D7-1245400,"Pf3D7-12-v3:1,894,942..1,895,967(+)","50S ribosomal protein L3, mitochondrial, putative"
+PF3D7-1302700,"Pf3D7-13-v3:145,174..150,198(+)","ATP-dependent RNA helicase DHR1, putative"
+PF3D7-1302800,"Pf3D7-13-v3:150,783..151,635(-)","40S ribosomal protein S7, putative"
+PF3D7-1308300,"Pf3D7-13-v3:372,260..372,646(+)",40S ribosomal protein S27
+PF3D7-1309100,"Pf3D7-13-v3:418,820..420,121(+)","60S ribosomal protein L24, putative"
+PF3D7-1309500,"Pf3D7-13-v3:436,676..437,305(-)","H/ACA ribonucleoprotein complex subunit 1, putative"
+PF3D7-1310900,"Pf3D7-13-v3:476,223..477,134(+)","mitochondrial ribosomal protein S15 precursor, putative"
+PF3D7-1317800,"Pf3D7-13-v3:740,527..741,454(+)",40S ribosomal protein S19
+PF3D7-1317900,"Pf3D7-13-v3:741,926..744,850(-)","nucleolar complex protein 4, putative"
+PF3D7-1322800,"Pf3D7-13-v3:960,166..960,646(+)","conserved protein, unknown function"
+PF3D7-1323100,"Pf3D7-13-v3:965,486..966,280(-)","60S ribosomal protein L6, putative"
+PF3D7-1323400,"Pf3D7-13-v3:971,847..973,036(-)",60S ribosomal protein L23
+PF3D7-1331800,"Pf3D7-13-v3:1,324,012..1,324,802(+)","60S ribosomal protein L23, putative"
+PF3D7-1332800,"Pf3D7-13-v3:1,348,779..1,349,522(+)","eukaryotic translation initiation factor 6, putative"
+PF3D7-1338200,"Pf3D7-13-v3:1,545,070..1,545,735(-)","60S ribosomal protein L6, putative"
+PF3D7-1339500,"Pf3D7-13-v3:1,587,028..1,587,874(-)","mitochondrial ribosomal protein L49 precursor, putative"
+PF3D7-1341200,"Pf3D7-13-v3:1,633,860..1,634,530(-)","60S ribosomal protein L18, putative"
+PF3D7-1341300,"Pf3D7-13-v3:1,636,556..1,637,833(+)","60S ribosomal protein L18-2, putative"
+PF3D7-1342000,"Pf3D7-13-v3:1,653,211..1,654,131(-)",40S ribosomal protein S6
+PF3D7-1347500,"Pf3D7-13-v3:1,897,983..1,899,362(-)",DNA/RNA-binding protein Alba 4
+PF3D7-1348100,"Pf3D7-13-v3:1,925,049..1,926,780(+)","GTPase, putative"
+PF3D7-1351400,"Pf3D7-13-v3:2,052,108..2,053,384(+)","60S ribosomal protein L17, putative"
+PF3D7-1352000,"Pf3D7-13-v3:2,069,317..2,075,337(+)","GTP-binding protein, putative"
+PF3D7-1357000,"Pf3D7-13-v3:2,265,817..2,267,148(-)",elongation factor 1-alpha
+PF3D7-1357100,"Pf3D7-13-v3:2,268,901..2,270,232(+)",elongation factor 1-alpha
+PF3D7-1358800,"Pf3D7-13-v3:2,331,074..2,331,529(+)",40S ribosomal protein S15
+PF3D7-1358900,"Pf3D7-13-v3:2,332,196..2,334,915(-)","GTP-binding protein, putative"
+PF3D7-1365100,"Pf3D7-13-v3:2,609,933..2,610,581(-)","ribosomal protein S17, putative"
+PF3D7-1365900,"Pf3D7-13-v3:2,632,534..2,633,260(-)",ubiquitin-60S ribosomal protein L40
+PF3D7-1367600,"Pf3D7-13-v3:2,693,921..2,694,859(-)","ribosome biogenesis protein MRT4, putative"
+PF3D7-1402500,"Pf3D7-14-v3:92,264..93,537(-)","ribosomal protein S27a, putative"
+PF3D7-1404400,"Pf3D7-14-v3:151,765..152,310(+)","ribosomal protein L16, mitochondrial, putative"
+PF3D7-1405800,"Pf3D7-14-v3:200,493..204,143(-)","ribosome biogenesis protein BOP1, putative"
+PF3D7-1408600,"Pf3D7-14-v3:323,317..324,172(+)","40S ribosomal protein S8e, putative"
+PF3D7-1410900,"Pf3D7-14-v3:437,224..439,466(+)","ribosome maturation protein SBDS, putative"
+PF3D7-1411600,"Pf3D7-14-v3:472,850..474,826(+)",GTP-binding protein Obg1
+PF3D7-1413400,"Pf3D7-14-v3:534,057..535,988(-)","30S ribosomal protein S9, putative"
+PF3D7-1414300,"Pf3D7-14-v3:570,802..571,461(+)","60S ribosomal protein L10, putative"
+PF3D7-1421200,"Pf3D7-14-v3:875,687..876,385(-)",40S ribosomal protein S25
+PF3D7-1422100,"Pf3D7-14-v3:893,720..894,862(-)","mitochondrial ribosomal protein L21 precursor, putative"
+PF3D7-1423000,"Pf3D7-14-v3:924,964..926,427(-)","nucleolar GTP-binding protein 2, putative"
+PF3D7-1424100,"Pf3D7-14-v3:973,853..975,543(-)","60S ribosomal protein L5, putative"
+PF3D7-1424400,"Pf3D7-14-v3:977,908..979,166(+)","60S ribosomal protein L7-3, putative"
+PF3D7-1426000,"Pf3D7-14-v3:1,016,133..1,016,618(-)",60S ribosomal protein L21
+PF3D7-1426200,"Pf3D7-14-v3:1,021,652..1,022,857(-)",protein arginine N-methyltransferase 1
+PF3D7-1428600,"Pf3D7-14-v3:1,127,042..1,129,031(+)",peptide chain release factor 1
+PF3D7-1429100,"Pf3D7-14-v3:1,142,154..1,143,791(+)","apicoplast ribosomal protein L15 precursor, putative"
+PF3D7-1429700,"Pf3D7-14-v3:1,168,236..1,169,336(-)","mitochondrial ribosomal protein L15 precursor, putative"
+PF3D7-1431000,"Pf3D7-14-v3:1,218,105..1,218,999(-)","mitochondrial ribosomal protein L17-2 precursor, putative"
+PF3D7-1431300,"Pf3D7-14-v3:1,231,036..1,233,841(+)","large subunit GTPase 1, putative"
+PF3D7-1431700,"Pf3D7-14-v3:1,247,030..1,247,950(+)","60S ribosomal protein L14, putative"
+PF3D7-1433000,"Pf3D7-14-v3:1,298,639..1,298,977(-)","H/ACA ribonucleoprotein complex subunit 3, putative"
+PF3D7-1435800,"Pf3D7-14-v3:1,452,604..1,454,118(+)","GTPase Era, putative"
+PF3D7-1436500,"Pf3D7-14-v3:1,488,706..1,490,001(+)","GTP-binding protein, putative"
+PF3D7-1441200,"Pf3D7-14-v3:1,678,662..1,679,486(+)","60S ribosomal protein L1, putative"
+PF3D7-1442200,"Pf3D7-14-v3:1,708,528..1,711,530(-)","GTP-binding protein, putative"
+PF3D7-1447000,"Pf3D7-14-v3:1,929,931..1,931,379(+)",40S ribosomal protein S5
+PF3D7-1447300,"Pf3D7-14-v3:1,936,888..1,937,374(+)","mitochondrial ribosomal protein S14 precursor, putative"
+PF3D7-1450100,"Pf3D7-14-v3:2,051,621..2,053,123(-)",signal recognition particle subunit SRP54
+PF3D7-1451900,"Pf3D7-14-v3:2,128,168..2,131,257(-)","ribosome biogenesis protein TSR1, putative"
+PF3D7-1454600,"Pf3D7-14-v3:2,239,538..2,240,227(-)","mitochondrial ribosomal protein S11 precursor, putative"
+PF3D7-1456600,"Pf3D7-14-v3:2,321,953..2,322,798(-)","mitochondrial ribosomal protein L28 precursor, putative"
+PF3D7-1459100,"Pf3D7-14-v3:2,423,907..2,426,300(+)","GTP-binding protein, putative"
+PF3D7-1460300,"Pf3D7-14-v3:2,459,214..2,459,964(-)","60S ribosomal protein L29, putative"
+PF3D7-1460700,"Pf3D7-14-v3:2,475,501..2,476,473(-)",60S ribosomal protein L27
+PF3D7-1460900,"Pf3D7-14-v3:2,480,440..2,481,916(+)","apicoplast ribosomal protein S10, putative"
+PF3D7-1460900,"Pf3D7-14-v3:2,480,440..2,481,916(+)","apicoplast ribosomal protein S10, putative"
+PF3D7-1461200,"Pf3D7-14-v3:2,489,698..2,490,249(+)","U3 small nucleolar ribonucleoprotein protein IMP3, putative"
+PF3D7-1461300,"Pf3D7-14-v3:2,492,166..2,492,369(+)","40S ribosomal protein S28e, putative"
+PF3D7-1463800,"Pf3D7-14-v3:2,583,187..2,583,549(-)","mitochondrial ribosomal protein S6-2 precursor, putative"
+PF3D7-1465900,"Pf3D7-14-v3:2,684,141..2,685,534(+)",40S ribosomal protein S3
+PF3D7-1466700,"Pf3D7-14-v3:2,729,370..2,730,811(+)","60S ribosome subunit biogenesis protein NIP7, putative"
+PF3D7-1467400,"Pf3D7-14-v3:2,753,136..2,754,020(-)","50S ribosomal protein L22, apicoplast, putative"
+PF3D7-1469000,"Pf3D7-14-v3:2,835,603..2,836,151(-)",translation initiation factor IF-1
+PF3D7-1471000,"Pf3D7-14-v3:2,902,134..2,903,537(+)","RNA 3'-terminal phosphate cyclase-like protein, putative"
+PF3D7-1474100,"Pf3D7-14-v3:3,023,228..3,023,726(+)","mitochondrial ribosomal protein L20 precursor, putative"
+PF3D7-API01300,"Pf3D7-API-v3:1,667..2,239(+)","50S ribosomal protein L4, putative"
+PF3D7-API01500,"Pf3D7-API-v3:2,467..3,204(+)",apicoplast ribosomal protein L2
+PF3D7-API01600,"Pf3D7-API-v3:3,226..3,498(+)",apicoplast ribosomal protein S19
+PF3D7-API01700,"Pf3D7-API-v3:3,507..4,151(+)","ribosomal protein S3, putative"
+PF3D7-API01800,"Pf3D7-API-v3:4,178..4,567(+)",apicoplast ribosomal protein L16
+PF3D7-API02000,"Pf3D7-API-v3:4,802..5,158(+)",apicoplast ribosomal protein L14
+PF3D7-API02100,"Pf3D7-API-v3:5,162..5,548(+)",apicoplast ribosomal protein S8
+PF3D7-API02200,"Pf3D7-API-v3:5,569..6,075(+)",apicoplast ribosomal protein L6
+PF3D7-API02300,"Pf3D7-API-v3:6,072..6,791(+)",apicoplast ribosomal protein S5
+PF3D7-API02500,"Pf3D7-API-v3:7,040..7,150(+)",apicoplast ribosomal protein L36
+PF3D7-API02600,"Pf3D7-API-v3:7,147..7,545(+)",apicoplast ribosomal protein S11
+PF3D7-API02700,"Pf3D7-API-v3:7,559..7,927(+)",apicoplast ribosomal protein S12
+PF3D7-API03500,"Pf3D7-API-v3:10,223..10,612(+)","apicoplast ribosomal protein L11, putative"
+PF3D7-API04100,"Pf3D7-API-v3:13,661..14,344(-)","30S ribosomal protein S2, putative"

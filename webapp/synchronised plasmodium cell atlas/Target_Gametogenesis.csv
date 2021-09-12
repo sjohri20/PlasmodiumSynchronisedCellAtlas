@@ -1,0 +1,25 @@
+Gene ID,Genomic Location (Gene),Product Description
+PF3D7-0109100,"Pf3D7-01-v3:365,610..368,795(+)",LCCL domain-containing protein
+PF3D7-0206200,"Pf3D7-02-v3:249,030..250,727(+)",pantothenate transporter
+PF3D7-0217500,"Pf3D7-02-v3:720,437..722,661(+)",calcium-dependent protein kinase 1
+PF3D7-0302100,"Pf3D7-03-v3:114,070..118,086(+)",serine/threonine protein kinase
+PF3D7-0418100,"Pf3D7-04-v3:810,995..814,642(-)","protein SOC1, putative"
+PF3D7-0501700,"Pf3D7-05-v3:86,820..89,201(-)","anaphase-promoting complex subunit 3, putative"
+PF3D7-0503200,"Pf3D7-05-v3:130,453..133,392(+)","conserved Plasmodium protein, unknown function"
+PF3D7-0512700,"Pf3D7-05-v3:546,734..547,579(-)",orotate phosphoribosyltransferase
+PF3D7-0717500,"Pf3D7-07-v3:755,763..757,696(+)",calcium-dependent protein kinase 4
+PF3D7-0822900,"Pf3D7-08-v3:1,007,777..1,011,307(-)","conserved Plasmodium protein, unknown function"
+PF3D7-0824200,"Pf3D7-08-v3:1,055,135..1,059,003(+)","conserved Plasmodium protein, unknown function"
+PF3D7-0825900,"Pf3D7-08-v3:1,106,048..1,107,961(+)","conserved Plasmodium protein, unknown function"
+PF3D7-1029900,"Pf3D7-10-v3:1,217,348..1,222,441(+)","conserved Plasmodium protein, unknown function"
+PF3D7-1033100,"Pf3D7-10-v3:1,324,132..1,328,436(-)",S-adenosylmethionine decarboxylase/ornithine decarboxylase
+PF3D7-1038400,"Pf3D7-10-v3:1,519,021..1,547,825(+)",gametocyte-specific protein
+PF3D7-1113900,"Pf3D7-11-v3:534,973..536,499(-)",mitogen-activated protein kinase 2
+PF3D7-1138400,"Pf3D7-11-v3:1,501,011..1,513,691(-)",guanylyl cyclase
+PF3D7-1227500,"Pf3D7-12-v3:1,114,025..1,121,093(-)","protein SOC2, putative"
+PF3D7-1334100,"Pf3D7-13-v3:1,392,614..1,395,565(-)","conserved protein, unknown function"
+PF3D7-1412500,"Pf3D7-14-v3:507,360..508,868(+)",actin II
+PF3D7-1431500,"Pf3D7-14-v3:1,238,851..1,241,595(-)",mitogen-activated protein kinase 1
+PF3D7-1436600,"Pf3D7-14-v3:1,490,654..1,494,214(-)",cGMP-dependent protein kinase
+PF3D7-1440600,"Pf3D7-14-v3:1,656,434..1,659,740(+)","protein SOC3, putative"
+PF3D7-1442000,"Pf3D7-14-v3:1,705,126..1,705,783(-)","ADP-ribosylation factor, putative"

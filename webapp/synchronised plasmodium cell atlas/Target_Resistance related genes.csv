@@ -1,0 +1,101 @@
+Gene ID,Genomic Location (Gene),Product Description
+PF3D7-0102200,"Pf3D7-01-v3:98,819..102,282(+)",ring-infected erythrocyte surface antigen
+PF3D7-0104300,"Pf3D7-01-v3:190,269..201,230(+)","ubiquitin carboxyl-terminal hydrolase 1, putative"
+PF3D7-0106300,"Pf3D7-01-v3:265,208..269,173(-)",calcium-transporting ATPase
+PF3D7-0107500,"Pf3D7-01-v3:304,362..309,257(-)","NPC1-related protein, putative"
+PF3D7-0112200,"Pf3D7-01-v3:464,726..470,194(+)",multidrug resistance-associated protein 1
+PF3D7-0206800,"Pf3D7-02-v3:273,689..274,507(-)",merozoite surface protein 2
+PF3D7-0217100,"Pf3D7-02-v3:707,738..709,393(+)","ATP synthase subunit alpha, mitochondrial"
+PF3D7-0302500,"Pf3D7-03-v3:135,418..140,660(+)",cytoadherence linked asexual protein 3.1
+PF3D7-0302600,"Pf3D7-03-v3:141,556..145,653(+)","ABC transporter B family member 4, putative"
+PF3D7-0303600,"Pf3D7-03-v3:190,180..190,719(+)",plasmoredoxin
+PF3D7-0304400,"Pf3D7-03-v3:217,941..218,489(+)",60S ribosomal protein L44
+PF3D7-0319700,"Pf3D7-03-v3:820,708..830,802(+)","ABC transporter I family member 1, putative"
+PF3D7-0321900,"Pf3D7-03-v3:922,974..927,942(+)",cyclic amine resistance locus protein
+PF3D7-0417200,"Pf3D7-04-v3:748,088..749,914(+)",bifunctional dihydrofolate reductase-thymidylate synthase
+PF3D7-0505300,"Pf3D7-05-v3:233,815..235,650(+)","UDP-N-acetylglucosamine transporter, putative"
+PF3D7-0505500,"Pf3D7-05-v3:239,456..243,880(-)","DNA mismatch repair protein MSH6, putative"
+PF3D7-0508300,"Pf3D7-05-v3:342,205..343,233(+)",triose phosphate transporter
+PF3D7-0509800,"Pf3D7-05-v3:410,268..415,308(+)",phosphatidylinositol 4-kinase
+PF3D7-0511000,"Pf3D7-05-v3:467,585..468,100(-)",translationally-controlled tumor protein homolog
+PF3D7-0515300,"Pf3D7-05-v3:628,981..635,382(+)",phosphatidylinositol 3-kinase
+PF3D7-0522600,"Pf3D7-05-v3:940,249..941,700(+)",inner membrane complex protein
+PF3D7-0523000,"Pf3D7-05-v3:957,890..962,149(+)",multidrug resistance protein 1
+PF3D7-0523800,"Pf3D7-05-v3:990,005..992,059(+)","divalent metal transporter, putative"
+PF3D7-0523900,"Pf3D7-05-v3:993,433..994,607(-)","MerC domain-containing protein, putative"
+PF3D7-0530200,"Pf3D7-05-v3:1,229,077..1,230,651(-)",phosphoenolpyruvate/phosphate translocator
+PF3D7-0603300,"Pf3D7-06-v3:130,329..132,038(-)",dihydroorotate dehydrogenase
+PF3D7-0604700,"Pf3D7-06-v3:204,640..206,207(-)",glyoxalase I-like protein GILP
+PF3D7-0612300,"Pf3D7-06-v3:520,751..521,107(+)","transmembrane protein 234, putative"
+PF3D7-0616200,"Pf3D7-06-v3:674,118..676,375(+)","kinetochore protein NDC80, putative"
+PF3D7-0628200,"Pf3D7-06-v3:1,159,862..1,169,080(+)",eukaryotic translation initiation factor 2-alpha kinase
+PF3D7-0629500,"Pf3D7-06-v3:1,213,948..1,216,005(-)",amino acid transporter AAT1
+PF3D7-0705900,"Pf3D7-07-v3:290,100..291,220(-)","ATP synthase subunit C, putative"
+PF3D7-0706700,"Pf3D7-07-v3:322,907..325,528(+)","DNA mismatch repair protein MSH2, putative"
+PF3D7-0709000,"Pf3D7-07-v3:403,222..406,317(+)",chloroquine resistance transporter
+PF3D7-0709700,"Pf3D7-07-v3:435,089..436,195(-)",prodrug activation and resistance esterase
+PF3D7-0715500,"Pf3D7-07-v3:689,543..690,057(-)","ATP synthase subunit epsilon, mitochondrial, putative"
+PF3D7-0715800,"Pf3D7-07-v3:695,600..696,904(-)","drug/metabolite transporter DMT1, putative"
+PF3D7-0716900,"Pf3D7-07-v3:736,370..737,338(+)",drug/metabolite transporter DMT2
+PF3D7-0728000,"Pf3D7-07-v3:1,191,179..1,192,289(-)",eukaryotic translation initiation factor 2 subunit alpha
+PF3D7-0802200,"Pf3D7-08-v3:165,416..166,078(+)",1-cys peroxiredoxin
+PF3D7-0810800,"Pf3D7-08-v3:548,200..550,616(+)",hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase
+PF3D7-0813700,"Pf3D7-08-v3:671,157..675,416(-)",ABC transporter F family member 1
+PF3D7-0918900,"Pf3D7-09-v3:777,558..780,749(+)",gamma-glutamylcysteine synthetase
+PF3D7-0930300,"Pf3D7-09-v3:1,201,812..1,206,974(+)",merozoite surface protein 1
+PF3D7-1008600,"Pf3D7-10-v3:357,345..358,463(+)","zinc finger (CCCH type) protein, putative"
+PF3D7-1022600,"Pf3D7-10-v3:948,477..951,152(+)",kelch protein K10
+PF3D7-1036300,"Pf3D7-10-v3:1,432,498..1,434,786(+)",duffy binding-like merozoite surface protein 2
+PF3D7-1036400,"Pf3D7-10-v3:1,436,316..1,439,804(+)",liver stage antigen 1
+PF3D7-1036800,"Pf3D7-10-v3:1,448,692..1,451,646(-)","acetyl-CoA transporter, putative"
+PF3D7-1038900,"Pf3D7-10-v3:1,562,809..1,563,888(+)","esterase, putative"
+PF3D7-1107400,"Pf3D7-11-v3:317,819..318,871(-)",DNA repair protein RAD51
+PF3D7-1113300,"Pf3D7-11-v3:519,189..520,220(+)","UDP-galactose transporter, putative"
+PF3D7-1113700,"Pf3D7-11-v3:529,493..530,563(+)",glyoxalase I
+PF3D7-1115700,"Pf3D7-11-v3:592,130..593,584(-)",cysteine proteinase falcipain 2a
+PF3D7-1117200,"Pf3D7-11-v3:654,762..660,420(+)","conserved Plasmodium protein, unknown function"
+PF3D7-1119600,"Pf3D7-11-v3:738,513..741,671(-)","ATP-dependent zinc metalloprotease FTSH, putative"
+PF3D7-1121600,"Pf3D7-11-v3:815,386..816,322(-)",exported protein 1
+PF3D7-1121700,"Pf3D7-11-v3:820,073..822,520(+)",protein GCN20
+PF3D7-1129100,"Pf3D7-11-v3:1,125,952..1,127,310(+)",parasitophorous vacuolar protein 1
+PF3D7-1132400,"Pf3D7-11-v3:1,255,286..1,259,671(-)","conserved Plasmodium membrane protein, unknown function"
+PF3D7-1137400,"Pf3D7-11-v3:1,470,600..1,471,877(-)",UVB-resistance protein UVR8 homologue
+PF3D7-1138300,"Pf3D7-11-v3:1,499,137..1,499,571(-)","conserved Plasmodium membrane protein, unknown function"
+PF3D7-1145500,"Pf3D7-11-v3:1,807,359..1,810,130(+)","ABC transporter B family member 3, putative"
+PF3D7-1147500,"Pf3D7-11-v3:1,889,826..1,892,597(-)",protein farnesyltransferase subunit beta
+PF3D7-1147700,"Pf3D7-11-v3:1,897,204..1,897,884(+)","ATP synthase subunit delta, mitochondrial, putative"
+PF3D7-1149200,"Pf3D7-11-v3:1,976,407..1,979,804(+)",ring-infected erythrocyte surface antigen
+PF3D7-1209900,"Pf3D7-12-v3:448,772..451,339(-)","ABC transporter B family member 7, putative"
+PF3D7-1211900,"Pf3D7-12-v3:529,005..532,799(-)",non-SERCA-type Ca2+ -transporting P-ATPase
+PF3D7-1213800,"Pf3D7-12-v3:590,194..592,434(-)",proline--tRNA ligase
+PF3D7-1218300,"Pf3D7-12-v3:717,955..719,820(+)","AP-2 complex subunit mu, putative"
+PF3D7-1229100,"Pf3D7-12-v3:1,192,888..1,199,214(-)",multidrug resistance-associated protein 2
+PF3D7-1235700,"Pf3D7-12-v3:1,487,084..1,488,691(+)","ATP synthase subunit beta, mitochondrial"
+PF3D7-1242600,"Pf3D7-12-v3:1,800,562..1,802,310(+)",protein farnesyltransferase subunit alpha
+PF3D7-1251200,"Pf3D7-12-v3:2,092,087..2,094,231(+)",coronin
+PF3D7-1252600,"Pf3D7-12-v3:2,150,554..2,151,915(+)","esterase, putative"
+PF3D7-1303500,"Pf3D7-13-v3:169,874..175,789(-)",sodium/hydrogen exchanger
+PF3D7-1310000,"Pf3D7-13-v3:448,907..449,668(+)","ATP synthase subunit O, mitochondrial, putative"
+PF3D7-1311300,"Pf3D7-13-v3:484,205..485,463(+)","ATP synthase subunit gamma, mitochondrial"
+PF3D7-1318300,"Pf3D7-13-v3:753,910..759,432(+)","conserved Plasmodium protein, unknown function"
+PF3D7-1324400,"Pf3D7-13-v3:1,021,509..1,022,537(+)","PRELI domain-containing protein, putative"
+PF3D7-1335900,"Pf3D7-13-v3:1,464,895..1,466,619(-)",thrombospondin-related anonymous protein
+PF3D7-1339900,"Pf3D7-13-v3:1,598,401..1,601,178(+)","ABC transporter B family member 5, putative"
+PF3D7-1343700,"Pf3D7-13-v3:1,724,817..1,726,997(-)",kelch protein K13
+PF3D7-1352100,"Pf3D7-13-v3:2,076,078..2,079,227(-)","ABC transporter B family member 6, putative"
+PF3D7-1362500,"Pf3D7-13-v3:2,503,185..2,505,458(+)","exonuclease, putative"
+PF3D7-1368200,"Pf3D7-13-v3:2,713,463..2,715,436(-)","ABC transporter E family member 1, putative"
+PF3D7-1401500,"Pf3D7-14-v3:57,172..58,293(-)","esterase, putative"
+PF3D7-1413500,"Pf3D7-14-v3:536,796..537,839(-)",FeS assembly ATPase SufC
+PF3D7-1427500,"Pf3D7-14-v3:1,081,773..1,084,208(+)","DNA mismatch repair protein MSH2, putative"
+PF3D7-1431400,"Pf3D7-14-v3:1,233,977..1,237,125(-)",surface-related antigen SRA
+PF3D7-1434000,"Pf3D7-14-v3:1,364,749..1,366,113(-)","CCR4-associated factor 16, putative"
+PF3D7-1436600,"Pf3D7-14-v3:1,490,654..1,494,214(-)",cGMP-dependent protein kinase
+PF3D7-1438900,"Pf3D7-14-v3:1,575,984..1,576,571(+)",thioredoxin peroxidase 1
+PF3D7-1442900,"Pf3D7-14-v3:1,753,510..1,763,664(+)","protein transport protein SEC7, putative"
+PF3D7-1447900,"Pf3D7-14-v3:1,954,601..1,957,675(-)",multidrug resistance protein 2
+PF3D7-1448500,"Pf3D7-14-v3:1,984,189..1,995,574(-)","conserved Plasmodium protein, unknown function"
+PF3D7-1467400,"Pf3D7-14-v3:2,753,136..2,754,020(-)","50S ribosomal protein L22, apicoplast, putative"
+PF3D7-1468600,"Pf3D7-14-v3:2,816,100..2,822,286(+)","aminophospholipid transporter, putative"
+PF3D7-1476100,"Pf3D7-14-v3:3,131,104..3,131,637(+)",early transcribed membrane protein 14.2
+PF3D7-API01300,"Pf3D7-API-v3:1,667..2,239(+)","50S ribosomal protein L4, putative"
